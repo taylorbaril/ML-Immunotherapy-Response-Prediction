@@ -1,3 +1,5 @@
+#Author: Taylor Baril, T00620474
+#Last updated Nov 14, 2026
 import pandas as pandas
 import numpy as np
 
