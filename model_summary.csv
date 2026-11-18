@@ -1,0 +1,5 @@
+,Balanced Accuracy,Balanced Accuracy,ROC-AUC,ROC-AUC,Sensitivity,Sensitivity,Specificity,Specificity
+,mean,std,mean,std,mean,std,mean,std
+Model,,,,,,,,
+Logistic Regression,0.5066666666666666,0.22197832420584124,0.485,0.276482809165728,0.49,0.3038117629414426,0.5233333333333333,0.28573412629524186
+Majority Benchmark,0.5,0.0,0.5,0.0,1.0,0.0,0.0,0.0
