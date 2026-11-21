@@ -1,0 +1,3 @@
+Model,balanced_accuracy_mean,balanced_accuracy_std,roc_auc_mean,roc_auc_std,sensitivity_mean,sensitivity_std,specificity_mean,specificity_std,TN_total,FP_total,FN_total,TP_total,settings,n_samples,n_patients,n_splits,n_repeats
+Majority Benchmark,0.5,0.0,0.5,0.0,1.0,0.0,0.0,0.0,0,120,0,150,strategy=most_frequent,27,26,5,10
+Random Forest,0.4883,0.1641,0.5067,0.2307,0.6067,0.2832,0.37,0.2941,42,78,59,91,"{'n_estimators': 200, 'max_depth': 3, 'min_samples_leaf': 2, 'random_state': 42}",27,26,5,10

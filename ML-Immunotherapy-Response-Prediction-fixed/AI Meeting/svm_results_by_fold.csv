@@ -1,0 +1,11 @@
+model,fold,n_test,balanced_accuracy,roc_auc,sensitivity,specificity,TN,FP,FN,TP
+Linear SVM,1,4,0.75,0.75,1.0,0.5,1,1,0,2
+Linear SVM,2,6,0.3333333333333333,0.5555555555555556,0.6666666666666666,0.0,0,3,1,2
+Linear SVM,3,5,0.8333333333333333,0.8333333333333333,0.6666666666666666,1.0,2,0,1,2
+Linear SVM,4,5,0.5833333333333333,0.5,0.5,0.6666666666666666,2,1,1,1
+Linear SVM,5,7,0.5,0.0,1.0,0.0,0,2,0,5
+Most-frequent baseline,1,4,0.5,0.5,1.0,0.0,0,2,0,2
+Most-frequent baseline,2,6,0.5,0.5,1.0,0.0,0,3,0,3
+Most-frequent baseline,3,5,0.5,0.5,1.0,0.0,0,2,0,3
+Most-frequent baseline,4,5,0.5,0.5,1.0,0.0,0,3,0,2
+Most-frequent baseline,5,7,0.5,0.5,0.0,1.0,2,0,5,0
