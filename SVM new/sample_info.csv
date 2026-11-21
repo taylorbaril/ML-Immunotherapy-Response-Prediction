@@ -1,0 +1,29 @@
+geo_accession,sample_title,patient_id,biopsy_time,response_original,treatment,description,expression_column
+GSM2069823,Pt1,Pt1,pre-treatment,Progressive Disease,Pembrolizumab,"Patient 1 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt1.baseline
+GSM2069824,Pt2,Pt2,pre-treatment,Partial Response,Pembrolizumab,"Patient 2 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt2.baseline
+GSM2069825,Pt4,Pt4,pre-treatment,Partial Response,Pembrolizumab,"Patient 4 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt4.baseline
+GSM2069826,Pt5,Pt5,pre-treatment,Partial Response,Pembrolizumab,"Patient 5 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt5.baseline
+GSM2069827,Pt6,Pt6,pre-treatment,Partial Response,Pembrolizumab,"Patient 6 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt6.baseline
+GSM2069828,Pt7,Pt7,pre-treatment,Progressive Disease,Pembrolizumab,"Patient 7 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt7.baseline
+GSM2069829,Pt8,Pt8,pre-treatment,Complete Response,Pembrolizumab,"Patient 8 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt8.baseline
+GSM2069830,Pt9,Pt9,pre-treatment,Complete Response,Pembrolizumab,"Patient 9 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt9.baseline
+GSM2069831,Pt10,Pt10,pre-treatment,Progressive Disease,Pembrolizumab,"Patient 10 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt10.baseline
+GSM2069832,Pt12,Pt12,pre-treatment,Progressive Disease,Pembrolizumab,"Patient 12 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt12.baseline
+GSM2069833,Pt13,Pt13,pre-treatment,Complete Response,Pembrolizumab,"Patient 13 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt13.baseline
+GSM2069834,Pt14,Pt14,pre-treatment,Progressive Disease,Pembrolizumab,"Patient 14 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt14.baseline
+GSM2069835,Pt15,Pt15,pre-treatment,Partial Response,Pembrolizumab,"Patient 15 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt15.baseline
+GSM2069836,Pt16,Pt16,on-treatment,Progressive Disease,Pembrolizumab,"Patient 16 melanoma, on-anti-PD-1 treatment, 1st biopsy",Pt16.OnTx
+GSM2069837,Pt19,Pt19,pre-treatment,Partial Response,Pembrolizumab,"Patient 19 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt19.baseline
+GSM2069838,Pt20,Pt20,pre-treatment,Progressive Disease,Pembrolizumab,"Patient 20 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt20.baseline
+GSM2069839,Pt22,Pt22,pre-treatment,Progressive Disease,Pembrolizumab,"Patient 22 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt22.baseline
+GSM2069840,Pt23,Pt23,pre-treatment,Progressive Disease,Pembrolizumab,"Patient 23 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt23.baseline
+GSM2069841,Pt25,Pt25,pre-treatment,Progressive Disease,Pembrolizumab,"Patient 25 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt25.baseline
+GSM2069842,Pt27A,Pt27,pre-treatment,Complete Response,Pembrolizumab,"Patient 27 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt27A.baseline
+GSM2069843,Pt27B,Pt27,pre-treatment,Complete Response,Pembrolizumab,"Patient 27 melanoma, pre anti-PD-1 treatment, 2nd biopsy",Pt27B.baseline
+GSM2069844,Pt28,Pt28,pre-treatment,Partial Response,Pembrolizumab,"Patient 28 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt28.baseline
+GSM2069845,Pt29,Pt29,pre-treatment,Progressive Disease,Pembrolizumab,"Patient 29 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt29.baseline
+GSM2069846,Pt31,Pt31,pre-treatment,Progressive Disease,Pembrolizumab,"Patient 31 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt31.baseline
+GSM2069847,Pt32,Pt32,pre-treatment,Progressive Disease,Pembrolizumab,"Patient 32 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt32.baseline
+GSM2069848,Pt35,Pt35,pre-treatment,Partial Response,Pembrolizumab,"Patient 35 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt35.baseline
+GSM2069849,Pt37,Pt37,pre-treatment,Partial Response,Pembrolizumab,"Patient 37 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt37.baseline
+GSM2069850,Pt38,Pt38,pre-treatment,Partial Response,Pembrolizumab,"Patient 38 melanoma, pre anti-PD-1 treatment, 1st biopsy",Pt38.baseline
